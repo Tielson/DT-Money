@@ -1,0 +1,36 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de Site",
+      "type": "income",
+      "category": "Venda",
+      "price": 1400,
+      "created_at": "2023-06-14T13:57:55.918Z"
+    },
+    {
+      "category": "Alimentação",
+      "description": "Pastel",
+      "price": 10,
+      "type": "outcome",
+      "created_at": "2023-06-15T13:53:09.977Z",
+      "id": 2
+    },
+    {
+      "category": "Desenvolvimento web",
+      "description": "Criação de E-commerce",
+      "price": 3200,
+      "type": "income",
+      "created_at": "2023-06-15T13:53:46.047Z",
+      "id": 3
+    },
+    {
+      "category": "Desenvolvimento web",
+      "description": "Desenvolvimento do E-commerce",
+      "price": 3200,
+      "type": "income",
+      "created_at": "2023-06-15T17:17:48.581Z",
+      "id": 4
+    }
+  ]
+}
